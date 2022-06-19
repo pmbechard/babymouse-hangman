@@ -32,7 +32,7 @@ const wordList = [
   'mad scientist',
   'cupcake tycoon',
   'queen',
-  'lost gold cupcacke',
+  'lost gold cupcake',
   'our hero',
   'beach babe',
   'rockstar',
