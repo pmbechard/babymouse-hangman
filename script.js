@@ -62,9 +62,7 @@ const wordList = [
   'victoria',
   'soul',
   'soap',
-  'snore',
-  'sissi is bad',
-  'tori is mean',
+  'snore'
 ];
 
 // Variables
