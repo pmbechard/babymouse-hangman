@@ -62,7 +62,18 @@ const wordList = [
   'victoria',
   'soul',
   'soap',
-  'snore'
+  'snore',
+  'extreme',
+  'snowboarding',
+  'mountain',
+  'summit',
+  'half pipe',
+  'cabin',
+  'hot chocolate',
+  'black diamond',
+  'inner voice',
+  'tail',
+  'meow',
 ];
 
 // Variables
