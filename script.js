@@ -74,6 +74,7 @@ const wordList = [
   'inner voice',
   'tail',
   'meow',
+  'bad sissi',
 ];
 
 // Variables
