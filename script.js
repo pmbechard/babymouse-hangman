@@ -75,6 +75,24 @@ const wordList = [
   'tail',
   'meow',
   'bad sissi',
+  'gingerbread',
+  'birthday party',
+  'troublesome', 
+  'gnomes',
+  'princess',
+  'royal babymouse',
+  'cloud',
+  'alice',
+  'wonderland',
+  'circus',
+  'band',
+  'blimp',
+  'pinata',
+  'unicorn',
+  'entertaining',
+  'muffins',
+  'screech',
+  'beauty and beast'
 ];
 
 // Variables
