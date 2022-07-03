@@ -92,7 +92,15 @@ const wordList = [
   'entertaining',
   'muffins',
   'screech',
-  'beauty and beast'
+  'beauty and beast',
+  'slam',
+  'worms',
+  'hopes',
+  'dreams',
+  'invite',
+  'times square',
+  'bee zort',
+  'aliens'
 ];
 
 // Variables
