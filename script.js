@@ -59,7 +59,6 @@ const wordList = [
   'recess',
   'cafeteria',
   'gross lunch',
-  'victoria',
   'soul',
   'soap',
   'snore',
