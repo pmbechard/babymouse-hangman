@@ -74,7 +74,7 @@ const wordList = [
   'inner voice',
   'tail',
   'meow',
-  'bad sissi',
+  'sissi',
   'gingerbread',
   'birthday party',
   'troublesome', 
