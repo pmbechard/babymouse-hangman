@@ -99,7 +99,16 @@ const wordList = [
   'invite',
   'times square',
   'bee zort',
-  'aliens'
+  'aliens',
+  'babysit',
+  'scooter',
+  'monkey',
+  'ladybug',
+  'friend',
+  'owl',
+  'waaahh',
+  'mommy',
+  'bad babysitter',
 ];
 
 // Variables
